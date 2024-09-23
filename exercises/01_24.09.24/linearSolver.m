@@ -18,17 +18,23 @@ function x = linearSolver(A, b)
     %% some useful matrix-related functions
     % determinant of A
     % det_A = det(A); 
+
     % transpose of A
     % trans_A = A';
+
     % inverse of A
     % inv_A = inv(A); 
+
     % sum of rows of A
     % sum_rows = sum(A); 
+
     % sum of columns of A
-    % sum_cols = sum(trans_A);  
+    % sum_cols = sum(trans_A); 
+
     % maximum of A, note the double use of max - first we obtain the
     % maximums along the rows and then the maximum element
     % max_A = max(max(A));
+
     % minimum of A
     % min_A = min(min(A));
     % sum of all elements of A
@@ -38,6 +44,7 @@ function x = linearSolver(A, b)
     % accessing elements of matrix
     % contains first two rows and all columns
     % sub_A = A(1:2, :);  
+    
     % contains first row and last two columns, note the use of end keyword
     % sub_A_1 = A(1, 2:end);
    

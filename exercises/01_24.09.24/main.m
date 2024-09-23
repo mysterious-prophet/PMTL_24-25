@@ -8,3 +8,6 @@ b = input('b: ');
 % call the function firstFunction with numeric params. a, b and assign its 
 % output to c
 c = firstFunction(a,b);
+
+% call the function cycles 
+count = cycles(10);
