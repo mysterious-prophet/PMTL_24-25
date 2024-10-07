@@ -6,24 +6,24 @@ Repo for the codes from the PMTL class at FNSPE. Autumn '24.
 **Credits**: 4
 
 ## Teachers
-**Lecturer**: doc. Ing. Jaromír Kukal, Ph.D., jaromir.kukal@fjfi.cvut.cz
+**Lecturer, Exercises (Cz), Credit Assignments**: doc. Ing. Jaromír Kukal, Ph.D., jaromir.kukal@fjfi.cvut.cz
 
-**Exercises, Credit Assignments**: Ing. Matěj Pokorný, pokorm20@fjfi.cvut.cz
+**Exercises (En), Credit Assignments**: Ing. Matěj Pokorný, pokorm20@fjfi.cvut.cz
 
  
 ## Schedule 
 
-- 2 lectures/week (doc. Kukal)
-  - Mondays, 12.00–13.40, T115
+- 1 lecture/week (doc. Kukal)
   - Wednesdays, 12.00–13.40, T210
 	  
-- 1 exercise/week
-  - Tuesdays, 8.00–9.40, T115
+- 2 exercise/week
+  - Mondays, 12.00–13.40, T115, in Czech
+  - Tuesdays, 8.00–9.40, T115, in English
 
    
 ## Attendance
 
-Neither lectures nor exercises have compulsory attendance, i.e. **attendance is purely voluntary (!)**
+You can choose if you wish to attend exercises in Czech or in English. Neither lectures nor exercises have compulsory attendance, i.e. **attendance is purely voluntary (!)**
 
 
 ## Class Completion
