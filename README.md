@@ -6,7 +6,7 @@ Repo for the codes from the PMTL class at FNSPE. Autumn '24.
 **Credits**: 4
 
 ## Teachers
-**Lecturer, Exercises (Cz), Credit Assignments**: doc. Ing. Jaromír Kukal, Ph.D., jaromir.kukal@fjfi.cvut.cz
+**Lectures, Exercises (Cz), Credit Assignments**: doc. Ing. Jaromír Kukal, Ph.D., jaromir.kukal@fjfi.cvut.cz
 
 **Exercises (En), Credit Assignments**: Ing. Matěj Pokorný, pokorm20@fjfi.cvut.cz
 
@@ -29,11 +29,11 @@ You can choose if you wish to attend exercises in Czech or in English. Neither l
 ## Class Completion
 Classified credit assignment (grades A–E)
 
-- Turn in four programs by the end of the semester (mid February). If you turn a program in before the classes end in December (in person), you can just show it to me and get a feedback and a grade. The final grade will be the average of these four grades. Programs turned in after classes end will have to come with a short documentation (preferably in Latex) containing problem formulation, function inputs and outputs, results obtained, ...
+- Turn in four programs by the end of the semester (mid February). If you turn a program in before the classes end in December (in person), you can just show it to me and get a feedback and a grade. **Please note that after we do any of the examples liste below in class, it will no longer be possible to choose them for of your assignments.** The final grade will be the average of these four grades. Programs turned in after the classes end will have to come with a short documentation (preferably in Latex) containing problem formulation, function inputs and outputs, results obtained, ...
   
-- There will be (probably) 6 general topics
+- There will be 6 general topics
 	- The first 2 topics (function, plot) will be compulsory
-	- There will be additional 3 or 4 topics - to pass the class you can choose any 2 of these
+	- There will be additional 4 topics - to pass the class you can choose any 2 of these
 
 - Current topic proposals (with some examples, just to give you the idea of the expected difficulty)
 	- Compulsory
@@ -55,7 +55,7 @@ Classified credit assignment (grades A–E)
 			- Program involving randomness of some kind
 			- Examples: Monte Carlo (pi finding, integrals), Random walks, Markov chains, randomized quicksort, maze generator and solver, radioactive decay, number guessing game, dice rolling histogram, random melody generator, ...
      
-		6. Object Oriented Programming (OOP)?
+		6. Object Oriented Programming (OOP)
 			- Create a program that uses the Object Oriented Programming paradigm - classes, structures, inheritance, etc.
 			- Examples: shape classes, vehicle classes, shop simulator - inventory management, health and fitness tracker, particle simulator, zoo manager, RPG game class system, chess game, ...
      
