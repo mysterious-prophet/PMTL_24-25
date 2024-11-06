@@ -13,7 +13,7 @@ Repo for the codes from the PMTL class at FNSPE. Autumn '24.
  
 ## Schedule 
 
-- 1 lecture/week (doc. Kukal)
+- 1 lecture/week
   - Wednesdays, 12.00–13.40, T210
 	  
 - 2 exercise/week
@@ -26,8 +26,7 @@ Repo for the codes from the PMTL class at FNSPE. Autumn '24.
 You can choose if you wish to attend exercises in Czech or in English. Neither lectures nor exercises have compulsory attendance, i.e. **attendance is purely voluntary (!)**
 
 
-## Class Completion
-Classified credit assignment (grades A–E)
+## Class Completion - Classified credit assignment (grades A–E)
 
 - Turn in four programs by the end of the semester (mid February). If you turn a program in before the classes end in December (in person), you can just show it to me and get a feedback and a grade. **Please note that after we do an example exercise from the ones listed below in class, it will no longer be possible to choose it for one of your assignments.** The final grade will be the average of these four grades. Programs turned in after the classes end will have to come with a short documentation (preferably in Latex) containing problem formulation, function inputs and outputs, results obtained, ...
   
