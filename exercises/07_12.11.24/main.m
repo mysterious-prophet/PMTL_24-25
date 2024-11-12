@@ -39,6 +39,8 @@ disp(sa.best_val)
 
 %% 3. Edge Detection
 % Initialize the CustomEdgeDetection class with an image file path
+% we can use, for example, Lenna - a famous, standard test image, available for download:
+% https://en.wikipedia.org/wiki/Lenna
 edge_detector = EdgeDetection('lenna.png');
 
 % Apply Sobel edge detection and display the result
