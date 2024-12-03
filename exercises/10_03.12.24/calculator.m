@@ -542,6 +542,3 @@ function calculator
             set(disp1, 'String', '');
         end
 end
-
-
-

@@ -105,7 +105,7 @@ end
 function loadMatrixFromFile(matrix_input)
     % Open file dialog
     [file, path] = uigetfile({'*.mat;*.txt;*.csv', 'Matrix Files (*.mat, *.txt, *.csv)'});
-    
+
     % if user cancels the dialog
     if isequal(file, 0)
         return;
