@@ -319,4 +319,3 @@ function fitness = rosenbrock(population)
     fitness = -sum(100 * (population(:, 2:end) - population(:, 1:end-1).^2).^2 + ...
                    (1 - population(:, 1:end-1)).^2, 2);
 end
-
