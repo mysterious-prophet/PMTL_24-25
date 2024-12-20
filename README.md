@@ -28,7 +28,7 @@ You can choose if you wish to attend exercises in Czech or in English. Neither l
 
 ## Class Completion - Classified credit assignment (grades A–E)
 
-- Turn in **four programs** by the end of the semester (mid February). If you turn a program in before the classes end in December or at the extra class held on 7th January from 8:00 to 9:40 in T105 (not T115), you can just show it to me in person and get a feedback and a grade. **Please note that after we do an example exercise from the ones listed below in class, it will no longer be possible to choose it for one of your assignments.** The final grade will be the average of these four grades. Programs turned in after the classes end will have to come with a short documentation (preferably in Latex) containing problem formulation, function inputs and outputs, results obtained, ...
+- Turn in **four programs** by the end of the semester (mid February). If you turn a program in before the classes end in December or at the **extra class held on 7th January from 8:00 to 9:40 in T105 (not T115)**, you can just show it to me in person and get a feedback and a grade. **Please note that after we do an example exercise from the ones listed below in class, it will no longer be possible to choose it for one of your assignments.** The final grade will be the average of these four grades. Programs turned in after the classes end will have to come with a short documentation (preferably in Latex) containing problem formulation, function inputs and outputs, results obtained, ...
   
 - There will be 6 general topics
 	- The first 2 topics (function, plot) will be compulsory
